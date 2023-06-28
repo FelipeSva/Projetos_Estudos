@@ -9,7 +9,7 @@ public class InferenciaTipo {
 		//pelo valor dado, se é atribuido o tipo da variavel.
 		System.out.println(b);
 		
-		var c = "texto"
+		var c = "texto";
 		System.out.println(c);
 		
 		double d; // variavel foi declarada
